@@ -1,1 +1,1 @@
-# python-sample
+# python-lesson01
